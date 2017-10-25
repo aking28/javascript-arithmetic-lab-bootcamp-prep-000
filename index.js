@@ -12,6 +12,6 @@ function divide(a, b) {
 }
 
 var number = 10
-fucntion inc() {
+function inc() {
   number += 5
 }
