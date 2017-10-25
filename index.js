@@ -12,7 +12,7 @@ function divide(a, b) {
 }
 
 var number = 10
-function inc() {
+function inc(n) {
   number += 5
   return number+5
 }
