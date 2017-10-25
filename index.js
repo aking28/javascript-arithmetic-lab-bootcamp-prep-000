@@ -14,4 +14,5 @@ function divide(a, b) {
 var number = 10
 function inc() {
   number += 5
+  return number+5
 }
